@@ -20,6 +20,7 @@ TourVision app:
 This demonstrates that the user can input details such as tour destination, date range of tour and the app will schedule the tour for the tourist by making clusters of the landmarks in the destination city. Number of clusters will be equal to the number of days. One cluster will be scheduled for one day. The clusters are calculated by a machine learning algorithm called K-means clustering. This ensures that wastage of time is minimized.
 
 TensorFlow Demo:
+
 https://drive.google.com/open?id=1qfleUKLq1oBK_TDuR32tFtKW-dKxS8Ox
 This app is the demo TensorFlow app in which we have trained our own classifier. This classifier can classify images and label them into five categories- mouse, keyboard, me(Bhanu Pratap) and my two friends(Mridul and Kuldeep).
 This demonstrates the ability to train the app to recognize the various points of interests such as statues, antiques, etc. In this way the app can act as a tour guide. The app can play audio files in the local language of the tourist to describe the tourist destination.
