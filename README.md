@@ -1,4 +1,4 @@
-# Hackathon4.0
+# TourVision
 
 Theme: Artificial Intelligence and Tourism
 Idea: An android app that uses Artificial intelligence to act as a tour guide. 
